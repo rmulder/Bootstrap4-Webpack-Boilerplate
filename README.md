@@ -1,6 +1,6 @@
 # Bootstrap Webpack Boilerplate
 
-Quickstart your front-end project with Bootstrap and Webpack + included loaders pre-configured.
+Quickstart your Front-End project with Bootstrap and Webpack + included loaders pre-configured.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ yarn start
 
 4.  Done!
 
-##Features
+## Features
 
 * Bootstrap library
 * Support for Bootstrap Jquery (exports loader)
